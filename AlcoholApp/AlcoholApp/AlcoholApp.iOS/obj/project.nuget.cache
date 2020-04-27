@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LzRL/sjwF4dgPk3Cb7S24pE45aJYbRYyQIeK2fC2A2OV4eBE4rRVoSQkEOpPbFKYYOClzc59OkXpzKnJzWYfrQ==",
+  "success": true,
+  "projectFilePath": "H:\\WCTC\\App Dev\\AlcoholApp\\AlcoholApp\\AlcoholApp.iOS\\AlcoholApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean Larsen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
